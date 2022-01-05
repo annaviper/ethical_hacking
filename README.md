@@ -1,1 +1,1 @@
-# ethical_hacking
+Ethical hacking scripts from online courses.
